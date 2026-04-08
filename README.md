@@ -22,11 +22,5 @@ Welcome to my GitHub! I am deeply passionate about bringing hardware to life thr
   <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VS Code" />
 </p>
 
-### 📈 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=HonagF&show_icons=true&theme=radical&hide_border=true" alt="Hoang's GitHub Stats" />
-</p>
-
 ---
-📫 **Let's connect:** [LinkedIn](https://www.linkedin.com/in/hoangnuyen0302)
+📫 **Socials:** [LinkedIn](https://www.linkedin.com/in/hoangnuyen0302)
