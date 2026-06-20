@@ -1,13 +1,10 @@
-# Hi there, I'm Nguyễn Minh Hoàng! 👋
+#  Nguyễn Minh Hoàng! 
 
 ### 👨‍💻 Aspiring Embedded Systems & Digital Design Engineer
 
-Welcome to my GitHub! I am deeply passionate about bringing hardware to life through clean C code and efficient digital logic. 
-
-* 🔭 I’m currently working on: **Dual core Digital Oscilloscope using STM32 and ESP32 (https://github.com/HonagF/HCMUS_ADC_Oscilloscope)**
-* 🌱 I’m currently learning: **Linux/WSL environments, RISC-V Architecture, Embedded System, Digital Signal Processing and French**
-* 🎯 Future Goal: **Pursuing a Master's degree in Embedded Systems in France 🇫🇷**
-* ⚡ Fun fact: **When I'm not debugging Hard Faults or wiring up a breadboard, you can find me dialing in guitar tones with new effect pedals, baking homemade pizza or grinding Football Manager.**
+* I’m currently working on: **Dual core Digital Oscilloscope using STM32 and ESP32 (https://github.com/HonagF/HCMUS_ADC_Oscilloscope)**
+* I’m currently learning: **Linux/WSL environments, RISC-V Architecture, Embedded System, Digital Signal Processing and French**
+* Future Goal: **Pursuing a Master's degree in Embedded Systems in France 🇫🇷**
 
 ---
 
