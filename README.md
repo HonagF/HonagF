@@ -1,4 +1,4 @@
-#  Nguyễn Minh Hoàng! 
+#  Minh-Hoang Nguyen
 
 ###  Electrical Engineering and Telecomunication Student
 
