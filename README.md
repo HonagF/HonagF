@@ -1,6 +1,6 @@
 #  Nguyễn Minh Hoàng! 
 
-### 👨‍💻 Aspiring Embedded Systems & Digital Design Engineer
+### 👨‍💻 Aspiring Embedded Systems & Digital Design Engineer Student
 
 * I’m currently working on: **Dual core Digital Oscilloscope using STM32 and ESP32 (https://github.com/HonagF/HCMUS_ADC_Oscilloscope)**
 * I’m currently learning: **Linux/WSL environments, RISC-V Architecture, Embedded System, Digital Signal Processing and French**
@@ -8,7 +8,7 @@
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### Tech Stack & Tools
 
 <p align="left">
   <img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C" />
