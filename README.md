@@ -3,7 +3,7 @@
 ###  Electrical Engineering and Telecomunication Student
 
 * I’m currently working on: **Dual core Digital Oscilloscope using STM32 and ESP32 (https://github.com/HonagF/HCMUS_ADC_Oscilloscope)**
-* I’m currently learning: **Linux/WSL environments, RISC-V Architecture, Embedded System, Digital Signal Processing and French**
+* I’m currently learning: **Linux/WSL environments, RISC-V Architecture, C/C++, Digital Signal Processing**
 * Future Goal: **Pursuing a Master's degree in Embedded Systems in France 🇫🇷**
 
 ---
